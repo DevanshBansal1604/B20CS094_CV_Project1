@@ -1,6 +1,6 @@
 # Image Matching and Image Stitching (Computer Vision Course Project-1)
 
-This project is about Image Matching, using various available methods,  their results, and comparing-and-contrasting between them. This project also focuses on Image Stitching, which is a practical use case scenario of Image Matching. This project can stitch any number of images and generate a panorama of them. This project also highlights my modification to traditional Harris Corner Detection Algorithm, and the results prove that my modification can be applied as an add-on after the traditional Harris Corner Detection for better performance.
+This project is about Image Matching, which involves employing several available techniques, analyzing their findings, and comparing and contrasting them. It also focuses on Image Stitching, which is a practical use case scenario of Image Matching. It can stitch any number of images and generate a panorama of them. It also highlights my modification to traditional Harris Corner Detection Algorithm, and the results prove that my modification can be applied as an add-on after the traditional Harris Corner Detection for better performance.
 
 ## How and What to Install
 
